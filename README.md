@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7AE18&width=435&lines=Hi+there%2C+it's+Amin!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7AE18&width=435&lines=Hi+there%2C+I'm+Amin!)](https://git.io/typing-svg)
 <h3 align="center">I am an IoT Machine Learning Engineer and Automotive Systems Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amin-sehati&label=Profile%20views&color=0e75b6&style=flat" alt="amin-sehati" /> </p>
